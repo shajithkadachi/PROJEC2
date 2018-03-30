@@ -1,0 +1,5 @@
+package com.db.mysql;
+
+public class User {
+
+}
